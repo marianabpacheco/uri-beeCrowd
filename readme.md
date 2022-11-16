@@ -1,9 +1,8 @@
 # Repositório criado para praticar lógica de programação através do beecrowd
 
-
 - A linguagem utilizada é JavaScript 
 
-## Como utilizar o beecrowd
+## Como utilizar o beecrowd 🐝
 
 - Para utilizar o beecrowd, deve-se entender que a entrada de dados se dá a partir do URI. A própria plataforma, para testar a lógica criada para a solução de problemas, irá testar sua soluçãp com inúmeros casos de testes.
 - Assim, para criar o ambiente de estudo, é necessário inicialmente criar um arquivo 'stdin'. É nesse arquivo que os valores para teste no nosso ambiente devem ser escritos.
@@ -13,6 +12,6 @@
 - O tratamento do objeto que é recebido pelo stdin pode variar de problema a problema.
 - No beecrowd, é necessário alterar o 'require('fs').readFileSync('stdin', 'utf8')' para require('fs').readFileSync('dev/stdin', 'utf8'), pois é assim que a organização de diretórios da plataforma beecrowd.
 
-### Repositório pessoal
+### Repositório pessoal 🚩
 
-- Há alguns arquivos que a lógica precisa ser refinada para ser aceito como correto no beecrowd.
+- Há alguns arquivos em que a lógica precisa ser refinada para serem aceitos como corretos no beecrowd.
